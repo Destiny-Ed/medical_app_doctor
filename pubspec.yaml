@@ -31,6 +31,7 @@ dependencies:
   syncfusion_flutter_charts: ^19.2.59
   graphql_flutter: ^5.0.0
   sensors_plus: ^1.1.0
+  web_socket_channel: ^2.1.0
 
 dev_dependencies:
   flutter_test:
